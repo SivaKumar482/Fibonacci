@@ -1,0 +1,4 @@
+Step1: Allowing everyone run the script
+  chmod 0755 Fibonacci.sh
+steps2: Execute the script
+  ./Fibonacci.sh
