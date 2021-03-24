@@ -1,3 +1,4 @@
+#!/bin/bash
 echo "Number of terms to be generated ?"
   read n
 function fib
